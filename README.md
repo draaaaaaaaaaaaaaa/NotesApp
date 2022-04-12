@@ -20,3 +20,14 @@ RPL IDN Learning source code project 6
 - Sort Data by Priority (EnumClass)
 - MVVM Architecture
 - ViewModel
+
+
+## This is the result of my learn
+| <img src="/images/image 9.png"/> | <img src="/images/image 10.png"/> | <img src="/images/image 11.png"/> |
+| :--: | :--: | :--: |
+
+| <img src="/images/image 12.png"/> | <img src="/images/image 13.png"/> | <img src="/images/image 14.png"/> |
+| :--: | :--: | :--: |
+
+| <img src="/images/image 15.png"/> 
+| :--: | :--: | :--: |
